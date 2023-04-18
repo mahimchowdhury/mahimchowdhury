@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" width="50">
-	Hi, I am Tanmay Mitra! Great to see you here!
+	Hi, I am Mahim Chowdhury! Great to see you here!
 	<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50">
 </h1>
 
@@ -24,15 +24,11 @@
 
 <!-- About Me Section -->
 ## About Me 👉😇👈
-I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) from [Chandigarh University](https://www.cuchd.in/). I have a passion for learning new things. I am a full-stack web developer with 5+ years of coding experience. I am always open to collaborating on projects and innovative/disruptive ideas. 
+I am a Front End Web Developer with a background in Business Administration and a DataCamp Certified Associate Data Analyst. My technical skills include proficiency in HTML, CSS, JavaScript, ReactJS,  with expertise in using Next.js for building complex front-end applications. My soft skills include communication, problem-solving, time management and adaptability or creativity as preference.
 
-💻 I love to participate in coding competition.
+An example of my strength is my ability to manage my own workload while working remotely for Fearless Social Media Agency, a USA-based digital marketing agency, using Next.js to create dynamic and responsive interfaces. I also have experience as a Web Developer at DhakaCast, a national award-winning healthcare startup, where I built an interactive web platform for medical professionals.
 
-👯 I’m looking to collaborate on Open-Source Projects
-
-📖 I’m currently working on few projects and learning DSA to improve my competitive programming skill.
-
-🤔 **I’m Open to Work on Domain like Web Developer, Software Development and DevOps**
+In the future, I am committed to continuing to develop my skills and take on new challenges in the web development and data analysis fields.
 
 <hr/>
 
@@ -44,12 +40,6 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 </h3>
 <table width="100%">
 	<tr>
-		<td align='center'>
-			<img src="./images/c.svg">
-		</td>
-		<td align='center'>
-			<img src="./images/cpp.svg">
-		</td>
 		<td align='center'>
 			<img src="./images/python.svg">
 		</td>
@@ -85,9 +75,7 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 		<td align='center'>
 			<img src="./images/next.svg">
 		</td>
-		<td align='center'>
-			<img src="./images/flask.svg">
-		</td>
+
 	</tr>
 	<tr>
 		<td align='center'>
@@ -111,9 +99,6 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 		<td align='center'>
 			<img src="./images/firebase.svg">
 		</td>
-		<td align='center'>
-			<img src="./images/heroku.svg">
-		</td>
 	</tr>
 	<tr>
 		<td align='center'>
@@ -133,7 +118,7 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 
 ## 🔥 Streak stats
 <p align="center">
-	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itstanmaymitra&theme=monokai-metallian&hide_border=true"/>
+	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mahimchowdhury&theme=monokai-metallian&hide_border=true"/>
 </p>
 
 ## 💻 GitHub Profile Stats
