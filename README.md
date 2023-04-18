@@ -121,6 +121,3 @@ In the future, I am committed to continuing to develop my skills and take on new
 	<img src="https://github-readme-stats.vercel.app/api?username=mahimchowdhury&show_icons=true&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866&hide_border=true" width="48%">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimchowdhury&layout=compact&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866&hide_border=true" width="48%">
 </p>
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=mahimchowdhury&bg_color=1F222E&color=F8D866&line=F24A72&point=FFFFFF&hide_border=true">
-</p>
