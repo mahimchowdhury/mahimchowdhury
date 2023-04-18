@@ -77,11 +77,6 @@ In the future, I am committed to continuing to develop my skills and take on new
 		</td>
 
 	</tr>
-	<tr>
-		<td align='center'>
-			<img src="./images/tailwind.svg">
-		</td>
-	</tr>
 </table>
 
 <h3>
