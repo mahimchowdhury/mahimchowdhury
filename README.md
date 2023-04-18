@@ -6,7 +6,7 @@
 
 <!-- Typing Intro Section -->
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&duration=6000&color=F24A72&background=77BAFF00&center=true&vCenter=true&lines=I+am+a+Front+End+Web+Developer..;I+am+a+certified+assosiate+data+analyst">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&duration=6000&color=F24A72&background=77BAFF00&center=true&vCenter=true&lines=I+am+a+Front+End+Web+Developer..; I+am+a+certified+assosiate+data+analyst...">
 </p>
 
 <!-- Social icons section -->
