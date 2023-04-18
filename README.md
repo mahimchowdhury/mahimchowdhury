@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" width="50">
-	Hi, I am Mahim Chowdhury! Great to see you here!
+	Hi, I am Tanmay Mitra! Great to see you here!
 	<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50">
 </h1>
 
@@ -144,4 +144,3 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=itstanmaymitra&bg_color=1F222E&color=F8D866&line=F24A72&point=FFFFFF&hide_border=true">
 </p>
-
