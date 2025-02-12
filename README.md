@@ -39,12 +39,12 @@ I am passionate about using data to drive decision-making and uncover actionable
 |---------------------|-----------------------------------------------------|----------------------------------------------------------------------------------------|
 | **Python**          | Libraries: Pandas, NumPy, Matplotlib, Seaborn       | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/> |
 | **SQL**             | Databases: PostgreSQL, MySQL                        | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50"/> |
-| **Excel**           | Advanced Functions, Pivot Tables, Data Cleaning     | <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50"/> |
+| **Excel**           | Advanced Functions, Pivot Tables, Data Cleaning     | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013_logo.svg" alt="Excel" width="50"/> |
 | **Tableau**         | Dashboards and Interactive Visuals                  | <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" width="50"/> |
 | **Power BI**        | Business Intelligence Reports and Dashboards        | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50"/> |
 | **Jupyter Notebook**| Exploratory Data Analysis                           | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50"/> |
 | **GitHub**          | Version Control, Collaboration                      | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50"/> |
-| **A/B Testing**     | Statistical Testing and Experimentation             | <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/AB_Testing_logo.png" alt="A/B Testing" width="50"/> |
+| **A/B Testing**     | Statistical Testing and Experimentation             | <img src="https://cdn-icons-png.flaticon.com/512/2333/2333293.png" alt="A/B Testing" width="50"/> |
 
 ---
 
