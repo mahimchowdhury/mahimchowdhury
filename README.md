@@ -24,11 +24,11 @@
 
 <!-- About Me Section -->
 ## About Me 👉😇👈
-I am a Front End Web Developer with a background in Business Administration and a DataCamp Certified Associate Data Analyst. My technical skills include proficiency in HTML, CSS, JavaScript, ReactJS,  with expertise in using Next.js for building complex front-end applications. My soft skills include communication, problem-solving, time management and adaptability or creativity as preference.
+I am an aspiring Data Analyst with a background in Business Administration and a Google Certified Data Analyst. My technical skills include proficiency in SQL, Python (Pandas, NumPy), and data visualization tools like Tableau and Excel, as well as a solid foundation in statistical analysis and problem-solving.
 
-An example of my strength is my ability to manage my own workload while working remotely for Fearless Social Media Agency, a USA-based digital marketing agency, using Next.js to create dynamic and responsive interfaces. I also have experience as a Web Developer at DhakaCast, a national award-winning healthcare startup, where I built an interactive web platform for medical professionals.
+An example of my strength is my ability to work independently and deliver results remotely. While working for Fearless Social Media Agency, a USA-based digital marketing agency, I developed data-driven insights to improve client campaigns. Additionally, during my time at DhakaCast, a national award-winning healthcare startup, I contributed to building a platform for medical professionals by integrating analytics to track platform performance and engagement.
 
-In the future, I am committed to continuing to develop my skills and take on new challenges in the web development and data analysis fields.
+I am passionate about using data to drive decision-making and uncover actionable insights. In the future, I am committed to expanding my expertise in data analytics, tackling new challenges, and leveraging my skills to create meaningful business impact.
 
 <hr/>
 
