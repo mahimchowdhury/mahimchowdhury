@@ -47,6 +47,15 @@ I am passionate about using data to drive decision-making and uncover actionable
 | **A/B Testing**     | Statistical Testing and Experimentation             | <img src="https://cdn-icons-png.flaticon.com/512/2333/2333293.png" alt="A/B Testing" width="50"/> |
 
 ---
+## 📊 Projects
+- **Sales Dashboard in Excel**: Analyzed and visualized monthly sales data using pivot tables and slicers.
+- **Customer Churn Prediction (Python)**: Built a machine learning model using logistic regression to predict churn.
+- **COVID-19 Global Dashboard (Tableau)**: Interactive map with filters for countries, dates, and confirmed cases.
+
+
+## 🎓 Certifications
+- **Google Data Analytics Certificate** – Coursera
+- **DataCamp Data Analyst Track** – Python & SQL
 
 ## 🔥 Streak stats
 <p align="center">
