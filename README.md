@@ -15,9 +15,9 @@
 	&#8287;&#8287;&#8287;&#8287;&#8287;
 	<a href="https://x.com/mahim_xt"><img width="32px" target="_blank" alt="Twitter" title="Twitter" src="./images/twitter.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://www.facebook.com/itstanmaymitra/" alt="Facebook" title="Facebook"><img width="32px" target="_blank" src="./images/facebook.png"/></a>
+	<a href="https://www.facebook.com/mahim.nxt" alt="Facebook" title="Facebook"><img width="32px" target="_blank" src="./images/facebook.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://www.instagram.com/itstanmaymitra/"><img width="32px" target="_blank" alt="Instagram" title="Instagram" src="./images/instagram.png"></a>
+	<a href="https://www.instagram.com/mahim.nxt"><img width="32px" target="_blank" alt="Instagram" title="Instagram" src="./images/instagram.png"></a>
 </p>
 
 <hr />
