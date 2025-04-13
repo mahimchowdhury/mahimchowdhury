@@ -13,7 +13,7 @@
 <p align="center">
 	<a href="https://www.linkedin.com/in/mahimchowdhury"><img width="32px" target="_blank" alt="Linkedin" title="Linkedin" src="./images/linkedin.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://x.com/mahim_xt"><img width="32px" target="_blank" alt="Twitter" title="Twitter" src="./images/x.png"/></a>
+	<a href="https://x.com/mahim_xt"><img width="32px" target="_blank" alt="Twitter" title="Twitter" src="./images/twitter.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
 	<a href="https://www.facebook.com/itstanmaymitra/" alt="Facebook" title="Facebook"><img width="32px" target="_blank" src="./images/facebook.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
